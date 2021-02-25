@@ -1,4 +1,4 @@
-baseURL = "http://ike.ilkilabs.io/"
+baseURL = "https://ilkilabs.github.io//"
 languageCode = "en-us"
 title = "IKE WebSite"
 theme = "ananke"
