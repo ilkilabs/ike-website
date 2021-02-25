@@ -1,0 +1,4 @@
+baseURL = "http://ike.ilkilabs.io/"
+languageCode = "en-us"
+title = "IKE WebSite"
+theme = "ananke"
