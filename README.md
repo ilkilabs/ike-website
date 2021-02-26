@@ -11,3 +11,6 @@ HOW to build:
 4) Make your add on IKE-WEBSITE files
 5) Test locally with : hugo server -D
 6) Push your changes to IKE-WEBSITE
+
+
+This ebsite is published on https://ilkilabs.github.io/ike-website/
