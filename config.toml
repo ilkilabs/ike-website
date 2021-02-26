@@ -101,7 +101,7 @@ url = "faq"
 logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
+description = "Ilkilabs logo"
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -143,7 +143,7 @@ link = "https://www.linkedin.com/company/ilki"
 ############################# English ############################
 [languages.en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "ilkilabs"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
