@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://ilkilabs.github.io/ike-website/"
-title = "ilkilabs"
+baseURL = "http://examplesite.org/"
+title = "Bigspring Hugo"
 theme = "bigspring"
 # post pagination
 paginate = "3"
@@ -41,10 +41,10 @@ name = "Blog"
 url = "blog"
 weight = 1
 
-#[[menu.main]]
-#name = "Pricing"
-#url = "pricing"
-#weight = 2
+[[menu.main]]
+name = "Pricing"
+url = "pricing"
+weight = 2
 
 [[menu.main]]
 name = "Contact"
@@ -65,15 +65,15 @@ url = "#"
 name = "Quick Start"
 url = "#"
 
-#[[menu.footer_left]]
-#name = "Pricing"
-#url = "pricing"
+[[menu.footer_left]]
+name = "Pricing"
+url = "pricing"
 
 
 # footer menu middle
-#[[menu.footer_middle]]
-#name = "Pricing"
-#url = "pricing"
+[[menu.footer_middle]]
+name = "Pricing"
+url = "pricing"
 
 [[menu.footer_middle]]
 name = "Platform"
@@ -122,22 +122,22 @@ link = "contact"
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/ilki.cloudesigner/"
+link = "#"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/ClouDesigner"
+link = "#"
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/ilkilabs"
+title = "skype"
+icon = "ti-skype" # themify icon : https://themify.me/themify-icons
+link = "#"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/ilki"
+link = "#"
 
 
 ############################# English ############################
