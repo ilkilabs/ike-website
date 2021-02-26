@@ -158,7 +158,7 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 ############################# Deutsch ############################
 [languages.de]
 languageName = "De"
-title = "Bigspring Hugo"
+title = "ilkilabs"
 contentDir = "content/deutsch" # content/german
 weight = 2
 ########### footer content ##########
