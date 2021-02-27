@@ -115,7 +115,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Get Started"
-link = "contact"
+link = "get-started"
 
   
 ############################# social site ########################
@@ -160,7 +160,7 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 languageName = "De"
 title = "ilkilabs"
 contentDir = "content/deutsch" # content/german
-weight = 2
+weight = 3
 ########### footer content ##########
 footer_menu_left = "Firma"
 footer_menu_middle = "Produkte"
@@ -168,3 +168,17 @@ footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
 copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+
+############################# French ############################
+[languages.fr]
+languageName = "Fr"
+title = "ilkilabs"
+contentDir = "content/french" # content/english
+weight = 2
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
