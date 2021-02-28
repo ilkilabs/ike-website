@@ -14,7 +14,7 @@ feature:
   title : "Something You Need To Know"
   feature_item:
     # feature item loop
-    - name : "Fast Performence"
+    - name : "High Performance"
       icon : "ti-rocket"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
