@@ -24,23 +24,23 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
     # feature item loop
+    - name : "Lightweight"
+      icon : "ti-wand"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
+    # feature item loop
     - name : "Certified Kubernetes"
       icon : "ti-cup"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
     # feature item loop
-    - name : "Clean Code"
-      icon : "ti-pulse"
+    - name : "Cloud Support"
+      icon : "ti-cloud-up"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
     # feature item loop
     - name : "Open-Source"
       icon : "ti-unlink"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "ti-cloud-up"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
